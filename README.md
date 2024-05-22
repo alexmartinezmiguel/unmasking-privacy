@@ -9,6 +9,6 @@ Recommender systems (RecSys) solve personalisation problems and therefore heavil
 [1] Zeynep Batmaz and Huseyin Polat. 2016. Randomization-based privacy-preserving frameworks for collaborative filtering. Procedia Computer Science 96 (2016), 33–42
 
 # Reproducibility
-1. Download the datasets ([Movielens-1M](https://grouplens.org/datasets/movielens/1m/) and [Last.fm-1K](http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html)) and save them in ```\data```.
-2. Run ```pre-processing.ipynb``` to pre-process the datasets (as described in Section 2.1 of our paper) and create the train and test splits.
+1. Download the datasets ([Movielens-1M](https://grouplens.org/datasets/movielens/1m/) and [Last.fm-1K](http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html)) and save them in ```data``` folder.
+2. Run ```data/pre-processing.ipynb``` to pre-process the datasets (as described in Section 2.1 of our paper) and create the train and test splits.
 3. 
