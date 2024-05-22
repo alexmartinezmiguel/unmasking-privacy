@@ -10,5 +10,5 @@ Recommender systems (RecSys) solve personalisation problems and therefore heavil
 
 # Reproducibility
 1. Download the datasets ([Movielens-1M](https://grouplens.org/datasets/movielens/1m/) and [Last.fm-1K](http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html)) and save them in ```\data```.
-2. Run ```pre-processing.ipynb``` pre-process the dataset (as described in Section 2.1 of our paper) and create the train and test splits.
+2. Run ```pre-processing.ipynb``` to pre-process the datasets (as described in Section 2.1 of our paper) and create the train and test splits.
 3. 
